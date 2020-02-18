@@ -12,3 +12,4 @@ else if(shem < lut)
 else {
     console.log("lut is young")
 }
+console.log("hello!");
